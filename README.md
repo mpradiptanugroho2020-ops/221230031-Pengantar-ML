@@ -1,11 +1,13 @@
 # 221230031-Pengantar-ML
-Repository untuk mata kuliah Pengantar Machine Learning 
+📚 **Repository Mata Kuliah:** Pengantar Machine Learning  
+🏫 **Universitas Muhammadiyah Pontianak**  
+📆 **Semester Ganjil 2025/2026**
 
-**Nama:** Muhammad Pradipta Nugroho
 
-**NIM:** 221230031
-
-**Kelas:** 04 A Sistem Informasi
+## 👨‍💻 Profil Mahasiswa
+| Nama | NIM | Kelas |
+|------|------|--------|
+| **Muhammad Pradipta Nugroho** | **221230031** | **04 A - Sistem Informasi** |
 
 Repository ini berisi semua tugas, proyek, dan catatan untuk mata kuliah **Pengantar Machine Learning** Semester Ganjil 2025/2026.
 
